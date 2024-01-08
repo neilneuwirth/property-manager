@@ -9,10 +9,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center">Property Manager Module</h2>
+  <h2 align="center">Oikos - Property Management Application</h2>
 
   <p align="center">
-    A property managment application to facilitate maintenance requests.
+    A property management application to facilitate maintenance requests / work order management.
     <br />
     <a href="https://github.com/neilneuwirth/property-manager-app"><strong>Explore the application »</strong></a>
     <a href="https://github.com/neilneuwirth/property-manager-api"><strong>Explore the API »</strong></a>
@@ -48,17 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Oikos is a property management software solution to streamline maintenance execution for tenants, managers, and vendors. With its intelligent automation platform and analytics engine, it creates efficiencies in the property management ecosystem.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,14 +65,14 @@ Use the `BLANK_README.md` to get started.
 - [x] **Buildium Integration**: Integration with Buildium property management software.
 
 ### Upcoming Features
-- [ ] **Deploy Services**: Deploy application and API services to AWS services staging account. 
-- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance request and analytics. 
+- [ ] **Deploy Services**: Deploy the application and API services to the AWS services staging account. 
+- [ ] **Property Manager Portal**: A dashboard for property managers to oversee maintenance requests and analytics. 
 - [ ] **Yardi Integration**: Integration with Yardi systems.
 - [ ] **Twilio Integration for Vendor/Maintenance Dispatching**: Utilize Twilio services for efficient communication with vendors and maintenance staff. 
 - [ ] **Appfolio Integration**: Integration with Appfolio.
 
-### Future Enhancments
-- [ ] **Tenant Portal Features**: Add features for tenants to view live progress of work orders, provide a review, and view historical requests. 
+### Future Enhancements
+- [ ] **Tenant Portal Features**: Add features for tenants to view the live progress of work orders, provide a review, and view historical requests. 
 - [ ] **Vendor Portal**: A portal for vendors to receive work orders, submit invoices, and communicate with property managers.
 
 ### Long-term vision
